@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T07:24:24.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="alsHeDNgLd56F2piKSQl" version="22.1.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-25T07:25:23.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Razk03wwh51zMzbhRKk9" version="22.1.11" type="github" pages="5">
   <diagram id="6qApV0sVtITQiH9Zs9IU" name="素材库">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -484,7 +484,7 @@
         <mxCell id="L2iUFBZVkVjURH34k3ce-3" value="设备信息详情" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1020" y="372.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L2iUFBZVkVjURH34k3ce-4" value="设备上架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="L2iUFBZVkVjURH34k3ce-4" value="设备上架/下架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1020" y="442.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L2iUFBZVkVjURH34k3ce-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;strokeWidth=1;fillColor=#B3B3B3;strokeColor=none;fontSize=15;" edge="1" parent="1" source="04heesSiGPwsJcjiWQiE-2">
