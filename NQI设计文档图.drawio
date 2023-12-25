@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T06:48:57.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7QARhajrZDPQamxOtM_e" version="22.1.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-25T06:51:09.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="At7ry1WzA9rCmPsVpQi-" version="22.1.11" type="github" pages="5">
   <diagram id="6qApV0sVtITQiH9Zs9IU" name="素材库">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="Ccja7VKXbYhgyl35PaLA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="530" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDWuJKYkh9WPVgpIZeKQ-1" value="通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="430" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -472,16 +475,16 @@
         <mxCell id="04heesSiGPwsJcjiWQiE-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;审批&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="363" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="04heesSiGPwsJcjiWQiE-5" value="设备清单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="04heesSiGPwsJcjiWQiE-5" value="设备信息清单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="780" y="373" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L2iUFBZVkVjURH34k3ce-1" value="编辑标准" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="L2iUFBZVkVjURH34k3ce-1" value="编辑设备信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L2iUFBZVkVjURH34k3ce-2" value="删除标准" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="L2iUFBZVkVjURH34k3ce-2" value="删除设备信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1020" y="302.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L2iUFBZVkVjURH34k3ce-3" value="标准详情" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="L2iUFBZVkVjURH34k3ce-3" value="设备信息详情" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1020" y="372.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L2iUFBZVkVjURH34k3ce-4" value="设备上架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
@@ -504,8 +507,8 @@
             <mxPoint x="155" y="402.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="04heesSiGPwsJcjiWQiE-2" value="增加设备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="150" y="373" width="120" height="60" as="geometry" />
+        <mxCell id="04heesSiGPwsJcjiWQiE-2" value="增加设备信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="151" y="373" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L2iUFBZVkVjURH34k3ce-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;strokeWidth=1;fillColor=#B3B3B3;strokeColor=none;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
